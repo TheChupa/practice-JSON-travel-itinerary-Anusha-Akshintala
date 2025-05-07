@@ -1,0 +1,94 @@
+{
+    "tripName": "Carnival Cruise: Southern Caribbean 2025",
+    "traveler": {
+      "name": "Anusha",
+      "contact": {
+        "email": "mail2anusha@gmail.com",
+        "phone": "+1987654321"
+      }
+    },
+    "cruiseDetails": {
+      "shipName": "Carnival Horizon",
+      "departurePort": "Fort Lauderdale, FL",
+      "returnPort": "Fort Lauderdale, FL",
+      "departureDate": "2025-07-10",
+      "returnDate": "2025-07-17",
+      "itinerary": [
+        {
+          "location": "Aruba",
+          "arrivalDate": "2025-07-11",
+          "departureDate": "2025-07-11",
+          "activities": [
+            {
+              "title": "Arikok National Park Hiking",
+              "time": "09:00 AM"
+            },
+            {
+              "title": "Eagle Beach Relaxation",
+              "time": "12:30 PM"
+            }
+          ]
+        },
+        {
+          "location": "Bonaire",
+          "arrivalDate": "2025-07-12",
+          "departureDate": "2025-07-12",
+          "activities": [
+            {
+              "title": "Bonaire Snorkeling Trip",
+              "time": "08:00 AM"
+            },
+            {
+              "title": "Washington Slagbaai National Park Tour",
+              "time": "02:00 PM"
+            }
+          ]
+        },
+        {
+            "location": "Amber Cove, Dominican Republic",
+            "arrivalDate": "2025-07-11",
+            "departureDate": "2025-07-11",
+            "activities": [
+              {
+                "title": "Amber Cove Beach Relaxation",
+                "time": "09:00 AM"
+              },
+              {
+                "title": "Snorkeling Adventure",
+                "time": "12:00 PM"
+              }
+            ]
+          },
+          {
+            "location": "La Romana, Dominican Republic",
+            "arrivalDate": "2025-07-12",
+            "departureDate": "2025-07-12",
+            "activities": [
+              {
+                "title": "Altos de Chavón Village Tour",
+                "time": "10:00 AM"
+              },
+              {
+                "title": "Catalina Island Snorkeling",
+                "time": "02:00 PM"
+              }
+            ]
+          },
+          {
+            "location": "Puerto Plata, Dominican Republic",
+            "arrivalDate": "2025-07-13",
+            "departureDate": "2025-07-13",
+            "activities": [
+              {
+                "title": "Mount Isabel de Torres Cable Car Ride",
+                "time": "09:30 AM"
+              },
+              {
+                "title": "Damajaqua Waterfalls Hike",
+                "time": "01:30 PM"
+              }
+            ]
+          }
+      ]
+    }
+  }
