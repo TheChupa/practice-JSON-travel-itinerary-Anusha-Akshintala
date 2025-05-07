@@ -15,7 +15,8 @@
       "returnDate": "2025-07-17",
       "itinerary": [
         {
-          "location": "Aruba",
+          "transportation" : [{"modeOf" : "Yacht", "cost" : 1500}],
+          "location" : "Aruba",
           "arrivalDate": "2025-07-11",
           "departureDate": "2025-07-11",
           "activities": [
@@ -30,6 +31,7 @@
           ]
         },
         {
+          "transportation" : [{"modeOf" : "Sailboat", "cost" : 500}],
           "location": "Bonaire",
           "arrivalDate": "2025-07-12",
           "departureDate": "2025-07-12",
@@ -45,6 +47,7 @@
           ]
         },
         {
+          "transportation" : [{"modeOf" : "submarine", "cost" : 300000}],
             "location": "Amber Cove, Dominican Republic",
             "arrivalDate": "2025-07-11",
             "departureDate": "2025-07-11",
@@ -60,6 +63,7 @@
             ]
           },
           {
+            "transportation" : [{"modeOf" : "aircraft cruiser", "cost" : 30000000000}],
             "location": "La Romana, Dominican Republic",
             "arrivalDate": "2025-07-12",
             "departureDate": "2025-07-12",
@@ -75,6 +79,7 @@
             ]
           },
           {
+            "transportation" : [{"modeOf" : "dolphin chariot", "cost" : 99999999999}],
             "location": "Puerto Plata, Dominican Republic",
             "arrivalDate": "2025-07-13",
             "departureDate": "2025-07-13",
